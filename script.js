@@ -1,5 +1,5 @@
 // Define an array of band names
-let bandNames = [['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
+let bandNames = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 // Function to remove articles from the beginning of a string
 function removeArticles(name) {
